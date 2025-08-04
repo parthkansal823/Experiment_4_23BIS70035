@@ -4,7 +4,6 @@
 
 Create a simple feature that displays a **live character count** as the user types in a `<textarea>`. This task helps you practice **real-time event handling** and **dynamic content updates** to improve user interaction and feedback.
 
----
 
 ## 📋 Task Description
 
@@ -22,7 +21,6 @@ Build a web page that includes:
 
 > This task focuses on DOM manipulation using JavaScript and reinforces user-centric UI behavior.
 
----
 
 ## 🎯 Learning Outcomes
 
