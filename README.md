@@ -20,9 +20,9 @@ Build a web page that includes:
   - Show the **current number of characters** entered.
   - Provide **clear and instant feedback**.
 
----
-
 > This task focuses on DOM manipulation using JavaScript and reinforces user-centric UI behavior.
+
+---
 
 ## 🎯 Learning Outcomes
 
