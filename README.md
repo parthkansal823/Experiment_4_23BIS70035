@@ -1,4 +1,4 @@
-# 📝 Live Character Counter for Textarea
+# 📝 Live Character Counter for Text Area
 
 ## 🎯 Objective
 
