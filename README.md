@@ -21,9 +21,22 @@ Build a web page that includes:
 
 > This task focuses on DOM manipulation using JavaScript and reinforces user-centric UI behavior.
 
+## 📸 Screenshots
+### Code – HTML5  
+![Alt Text](html.png)
 
-## 🎯 Learning Outcomes
+### Code – CSS  
+![Alt Text](css1.png)  
+![Alt Text](css2.png)
 
+### Code – JavaScript  
+![Alt Text](js.png)
+
+### Output
+![Alt Text](result1.png)
+![Alt Text](result2.png)
+
+## Learning Outcome
 - Gain experience with real-time **DOM event handling**.
 - Practice **updating UI dynamically** with JavaScript.
 - Improve **user interaction feedback** using simple logic.
