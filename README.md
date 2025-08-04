@@ -27,7 +27,6 @@ Build a web page that includes:
 
 ### Code – CSS  
 ![Alt Text](css1.png)  
-![Alt Text](css2.png)
 
 ### Code – JavaScript  
 ![Alt Text](js.png)
