@@ -23,13 +23,37 @@ Build a web page that includes:
 
 ## 📸 Screenshots
 ### Code – HTML5  
-![Alt Text](html.png)
+[View Code](Experiment.html)
 
 ### Code – CSS  
-![Alt Text](css1.png)  
+```
+.container {
+    border: 1px solid black;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 500px;
+}
+
+textarea {
+    width: 100%;
+    height: 80px;
+    font-size: 16px;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-bottom: 8px;
+}
+
+.counter {
+    font-size: 1.1em;
+    margin-top: 4px;
+}
+
+.counter b {
+    font-weight: bold;
+}
+```
 
 ### Code – JavaScript  
-![Alt Text](js.png)
 ```javascript
 const textarea = document.getElementById('textinput');
 const counter = document.getElementById('charCount');
