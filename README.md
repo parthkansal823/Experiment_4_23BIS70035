@@ -30,6 +30,14 @@ Build a web page that includes:
 
 ### Code – JavaScript  
 ![Alt Text](js.png)
+```javascript
+const textarea = document.getElementById('textinput');
+const counter = document.getElementById('charCount');
+
+textarea.addEventListener('input', () => {
+    counter.textContent = textarea.value.length;
+});
+```
 
 ### Output
 ![Alt Text](result1.png)
