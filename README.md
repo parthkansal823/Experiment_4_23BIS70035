@@ -20,8 +20,8 @@ Build a web page that includes:
   - Provide **clear and instant feedback**.
 
 > This task focuses on DOM manipulation using JavaScript and reinforces user-centric UI behavior.
-
-### Code – HTML5 [View Code](main.html)
+## 🧑‍💻 Codes
+### HTML5 [View Code](main.html)
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -43,7 +43,7 @@ Build a web page that includes:
 </body>
 </html>
 ```
-### Code – CSS [View Code](style.css)
+### CSS [View Code](style.css)
 ```
 .container {
     border: 1px solid black;
@@ -71,7 +71,7 @@ textarea {
 }
 ```
 
-### Code – JavaScript [View Code](script.js)
+### JavaScript [View Code](script.js)
 ```javascript
 const textarea = document.getElementById('textinput');
 const counter = document.getElementById('charCount');
