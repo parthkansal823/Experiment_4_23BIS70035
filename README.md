@@ -21,7 +21,6 @@ Build a web page that includes:
 
 > This task focuses on DOM manipulation using JavaScript and reinforces user-centric UI behavior.
 
-## 📸 Screenshots
 ### Code – HTML5 [View Code](main.html)
 ```html
 <!DOCTYPE html>
@@ -81,8 +80,7 @@ textarea.addEventListener('input', () => {
     counter.textContent = textarea.value.length;
 });
 ```
-
-### Output
+## 📸 Screenshot - Output
 ![Alt Text](result1.png)
 ![Alt Text](result2.png)
 
