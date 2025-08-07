@@ -22,10 +22,29 @@ Build a web page that includes:
 > This task focuses on DOM manipulation using JavaScript and reinforces user-centric UI behavior.
 
 ## 📸 Screenshots
-### Code – HTML5  
-[View Code](Experiment.html)
-
-### Code – CSS  
+### Code – HTML5 [View Code](main.html)
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Character Counter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Live Character Counter</h2>
+        <textarea id="textinput" placeholder="Start typing..."></textarea>
+        <div class="counter">
+            <b>Characters:</b> <span id="charCount">0</span>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+```
+### Code – CSS [View Code](style.css)
 ```
 .container {
     border: 1px solid black;
@@ -53,7 +72,7 @@ textarea {
 }
 ```
 
-### Code – JavaScript  
+### Code – JavaScript [View Code](script.js)
 ```javascript
 const textarea = document.getElementById('textinput');
 const counter = document.getElementById('charCount');
